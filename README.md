@@ -19,7 +19,9 @@ Foodie projesi, market alışverişlerinde kasiyer ya da barkod okutma sistemine
  ### Başlangıç ve Giriş Ekranları
   <table>
    <tr>
-    <td><img src="https://github.com/Selinayceylann/Foodie/blob/2bb61ec2536ea1ac80e278a907b89592dbf34e6c/FoodieStoreApp/Screenshots/LoginScreen.png" alt="Splash Screen" width="200"/></td>
+    <td><img src="https://github.com/Selinayceylann/Foodie/blob/2bb61ec2536ea1ac80e278a907b89592dbf34e6c/FoodieStoreApp/Screenshots/LoginScreen.png" alt="Login Screen" width="200"/></td>
+    <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/CreateAccountScreen.png" alt="Create Account Screen" width="200"/></td>
+    <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/SingInScreen.png" alt="Sing In Screen" width="200"/></td>
 
   </tr>
 </table>
