@@ -11,3 +11,19 @@ Foodie projesi, market alışverişlerinde kasiyer ya da barkod okutma sistemine
 * Market alışverişlerini hızlı tamamlamak isteyen kullanıcılar
 * Temassız alışverişi tercih eden kişiler
 * Dijital çözümleri benimseyen tüketiciler
+
+
+  <details>
+  <summary><h3>Screenshots</h3></summary>
+
+ ### Başlangıç ve Giriş Ekranları
+  <table>
+  <tr>
+
+      <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/LoginScreen.png" alt="Splash Screen" width="200"/></td>
+
+        </tr>
+</table>
+
+
+</details>
