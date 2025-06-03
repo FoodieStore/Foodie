@@ -1,0 +1,122 @@
+[
+  {
+    "isim": "Lemon",
+    "turkceisim" : "Limon",
+    "fiyat": "19.90 TL",
+    "ozellikler": [
+      "C vitamini kaynağı",
+      "Ekşi tat",
+      "Taze"
+    ],
+    "aciklama": "Ferahlatıcı ekşi tadıyla salataların ve içeceklerin vazgeçilmezi limon.",
+    "gorsel": "Limon"
+  },
+  {
+    "isim": "Aubergine",
+    "turkceisim" : "Patlıcan",
+    "fiyat": "24.90 TL",
+    "ozellikler": [
+      "Etli doku",
+      "Düşük kalorili",
+      "Taze"
+    ],
+    "aciklama": "Közlenmiş, kızartılmış veya fırınlanmış olarak tüketilebilen taze patlıcan.",
+    "gorsel": "Patlican"
+  },
+  {
+    "isim": "Cabbage",
+    "turkceisim" : "Lahana",
+    "fiyat": "17.90 TL",
+    "ozellikler": [
+      "Vitamin deposu",
+      "Lif kaynağı",
+      "Taze"
+    ],
+    "aciklama": "Salata ve yemeklerde kullanılan, vitamin açısından zengin taze lahana.",
+    "gorsel": "Lahana"
+  },
+  {
+    "isim": "Carrot",
+    "turkceisim" : "Havuç",
+    "fiyat": "16.50 TL",
+    "ozellikler": [
+      "Beta karoten zengini",
+      "Tatlı ve gevrek",
+      "Taze"
+    ],
+    "aciklama": "Gevrek dokusu ve doğal tatlılığıyla havuç, atıştırmalık ve yemekler için ideal.",
+    "gorsel": "Havuc"
+  },
+  {
+    "isim": "Cucumber",
+    "turkceisim" : "Salatalık",
+    "fiyat": "14.90 TL",
+    "ozellikler": [
+      "Ferahlatıcı",
+      "Sulu yapı",
+      "Taze"
+    ],
+    "aciklama": "Salataların vazgeçilmezi, ferahlatıcı ve sulu yapısıyla taze salatalık.",
+    "gorsel": "Salatalik"
+  },
+  {
+    "isim": "YellowOnion",
+    "turkceisim" : "Soğan",
+    "fiyat": "12.90 TL",
+    "ozellikler": [
+      "Aromatik tat",
+      "Çeşitli kullanım",
+      "Taze"
+    ],
+    "aciklama": "Yemeklerin temel lezzet kaynağı olan aromatik sarı soğan.",
+    "gorsel": "Sogan"
+  },
+  {
+    "isim": "OrangeBellPepper",
+    "turkceisim" : "Turuncu Dolmalık Biber",
+    "fiyat": "29.90 TL",
+    "ozellikler": [
+      "Tatlı aromalı",
+      "Renkli sunum",
+      "Taze"
+    ],
+    "aciklama": "Dolmalar, salatalar ve ızgaralar için ideal, tatlı aromalı turuncu dolmalık biber.",
+    "gorsel": "TuruncuDolmalikBiber"
+  },
+  {
+    "isim": "YellowBellPepper",
+    "turkceisim" : "Sarı Dolamalık Biber",
+    "fiyat": "29.90 TL",
+    "ozellikler": [
+      "Tatlı ve hafif aroma",
+      "Canlı renk",
+      "Taze"
+    ],
+    "aciklama": "Salatalar ve dolmalar için ideal, canlı renkli ve hafif aromalı sarı dolmalık biber.",
+    "gorsel": "SariDolmalikBiber"
+  },
+  {
+    "isim": "Potato",
+    "turkceisim" : "Patates",
+    "fiyat": "11.90 TL",
+    "ozellikler": [
+      "Çok yönlü kullanım",
+      "Doyurucu",
+      "Taze"
+    ],
+    "aciklama": "Kızartmadan haşlamaya birçok tarifin ana malzemesi, taze patates.",
+    "gorsel": "Patates"
+  },
+  {
+    "isim": "Tomato",
+    "turkceisim" : "Domates",
+    "fiyat": "18.90 TL",
+    "ozellikler": [
+      "Sulu yapı",
+      "Tatlı-ekşi denge",
+      "Taze"
+    ],
+    "aciklama": "Salatalar ve yemekler için ideal, sulu ve aromatik taze domates.",
+    "gorsel": "Domates"
+  }
+]

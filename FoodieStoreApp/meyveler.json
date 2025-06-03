@@ -1,0 +1,146 @@
+[
+  {
+    "isim": "GreenApple",
+    "turkceisim" : "Yeşil Elma",
+    "fiyat": "24.90 TL",
+    "ozellikler": [
+      "Ekşi tat",
+      "Yüksek lif oranı",
+      "Taze"
+    ],
+    "aciklama": "Canlı yeşil rengi ve ekşi tadıyla sağlıklı bir atıştırmalık.",
+    "gorsel": "YesilElma"
+  },
+  {
+    "isim": "RedApple",
+    "turkceisim" : "Kırmızı Elma",
+    "fiyat": "22.50 TL",
+    "ozellikler": [
+      "Tatlı aromalı",
+      "Antioksidan kaynağı",
+      "Taze"
+    ],
+    "aciklama": "Doğal tatlılığı ve çıtır dokusuyla taze kırmızı elma.",
+    "gorsel": "KirmiziElma"
+  },
+  {
+    "isim": "Avocado",
+    "turkceisim" : "Avokado",
+    "fiyat": "39.90 TL",
+    "ozellikler": [
+      "Sağlıklı yağ kaynağı",
+      "Kremamsı doku",
+      "Olgun"
+    ],
+    "aciklama": "Besleyici ve kremamsı yapısıyla sandviç ve salatalar için ideal avokado.",
+    "gorsel": "Avokado"
+  },
+  {
+    "isim": "Banana",
+    "turkceisim" : "Muz",
+    "fiyat": "19.90 TL",
+    "ozellikler": [
+      "Enerji kaynağı",
+      "Potasyum zengini",
+      "Tatlı"
+    ],
+    "aciklama": "Doğal enerji kaynağı, atıştırmalıklar için mükemmel tatlı muz.",
+    "gorsel": "Muz"
+  },
+  {
+    "isim": "Kiwi",
+    "turkceisim" : "Kivi",
+    "fiyat": "27.90 TL",
+    "ozellikler": [
+      "C vitamini deposu",
+      "Tatlı-ekşi tat",
+      "Taze"
+    ],
+    "aciklama": "C vitamini yönünden zengin, ferahlatıcı tatlı-ekşi aromalı kivi.",
+    "gorsel": "Kivi"
+  },
+  {
+    "isim": "Melon",
+    "turkceisim" : "Kavun",
+    "fiyat": "34.90 TL",
+    "ozellikler": [
+      "Sulu ve tatlı",
+      "Serinletici",
+      "Taze"
+    ],
+    "aciklama": "Yaz aylarının vazgeçilmezi, sulu ve tatlı kavun.",
+    "gorsel": "Kavun"
+  },
+  {
+    "isim": "Watermelon",
+    "turkceisim" : "Karpuz",
+    "fiyat": "29.90 TL",
+    "ozellikler": [
+      "Ferahlık sağlar",
+      "Sulu yapı",
+      "Tatlı"
+    ],
+    "aciklama": "Sıcak günlerde serinleten, bol sulu ve tatlı karpuz.",
+    "gorsel": "Karpuz"
+  },
+  {
+    "isim": "Orange",
+    "turkceisim" : "Portakal",
+    "fiyat": "26.90 TL",
+    "ozellikler": [
+      "C vitamini kaynağı",
+      "Tatlı ve sulu",
+      "Taze"
+    ],
+    "aciklama": "Kış aylarının favorisi, tatlı ve bol C vitamini içeren portakal.",
+    "gorsel": "Portakal"
+  },
+  {
+    "isim": "Peach",
+    "turkceisim" : "Şeftali",
+    "fiyat": "32.90 TL",
+    "ozellikler": [
+      "Kadifemsi doku",
+      "Tatlı ve aromatik",
+      "Taze"
+    ],
+    "aciklama": "Kadifemsi kabuğu ve aromatik tadıyla taze şeftali.",
+    "gorsel": "Seftali"
+  },
+  {
+    "isim": "Pear",
+    "turkceisim" : "Armut",
+    "fiyat": "23.90 TL",
+    "ozellikler": [
+      "Tatlı",
+      "Lif kaynağı",
+      "Sulu"
+    ],
+    "aciklama": "Yumuşak dokusu ve doğal tatlılığıyla armut.",
+    "gorsel": "Armut"
+  },
+  {
+    "isim": "Pomegranate",
+    "turkceisim" : "Nar",
+    "fiyat": "31.90 TL",
+    "ozellikler": [
+      "Antioksidan zengini",
+      "Tane tane yapı",
+      "Ekşi-tatlı"
+    ],
+    "aciklama": "Şifa deposu, ekşi-tatlı aroması ve bol antioksidan içeriğiyle nar.",
+    "gorsel": "Nar"
+  },
+  {
+    "isim": "Satsumas",
+    "turkceisim" : "Mandalina",
+    "fiyat": "24.50 TL",
+    "ozellikler": [
+      "Kolay soyulur",
+      "Tatlı ve sulu",
+      "C vitamini kaynağı"
+    ],
+    "aciklama": "Kolay soyulabilen kabuğu ve tatlı lezzetiyle mandalina.",
+    "gorsel": "Mandalina"
+  }
+]

@@ -8,12 +8,22 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBOutlet weak var signInButton: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        signInButton.setTitleColor(.white, for: .normal) 
+        
     }
 
-
+    @IBAction func signUpClicked(_ sender: Any) {
+        performSegue(withIdentifier: "toCreateAccountVC", sender: nil)
+    }
+    
+    @IBAction func signInClicked(_ sender: Any) {
+        performSegue(withIdentifier: "toSignInVC", sender: nil)
+    }
+    
 }
 

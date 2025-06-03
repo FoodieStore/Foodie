@@ -1,0 +1,74 @@
+[
+  {
+    "isim": "BravoAppleJuice",
+    "turkceisim" : "Bravo Elma Suyu",
+    "fiyat": "39.90 TL",
+    "ozellikler": [
+      "%100 doğal",
+      "Şeker ilavesiz",
+      "1L"
+    ],
+    "aciklama": "Taze elmalardan üretilmiş, doğal ve katkısız elma suyu.",
+    "gorsel": "BravoElmaSuyu"
+  },
+  {
+    "isim": "GodMorgonOrangeJuice",
+    "turkceisim" : "God Morgon Portakal Suyu",
+    "fiyat": "42.50 TL",
+    "ozellikler": [
+      "%100 portakal suyu",
+      "C vitamini kaynağı",
+      "1L"
+    ],
+    "aciklama": "Olgun portakallardan sıkılarak elde edilmiş, yüksek C vitamini içeriğine sahip portakal suyu.",
+    "gorsel": "GodMorgonPortakalSuyu"
+  },
+  {
+    "isim": "ArlaStandartMilk",
+    "turkceisim" : "Arla Süt",
+    "fiyat": "29.90 TL",
+    "ozellikler": [
+      "Tam yağlı",
+      "Doğal kaynaklı",
+      "1L"
+    ],
+    "aciklama": "İskandinav çiftliklerinden gelen, tam yağlı ve taze içimlik süt.",
+    "gorsel": "ArlaSut"
+  },
+  {
+    "isim": "ArlaSourCream",
+    "turkceisim" : "Arla Ekşi Krema",
+    "fiyat": "34.90 TL",
+    "ozellikler": [
+      "%18 yağ oranı",
+      "Doğal fermente ürün",
+      "200g"
+    ],
+    "aciklama": "Tatlı ve tuzlu tarifler için ideal, doğal fermente edilerek üretilmiş ekşi krema.",
+    "gorsel": "ArlaEksiKrema"
+  },
+  {
+    "isim": "ArlaMildVanillaYoghurt",
+    "turkceisim" : "Arla Hafif Vanilyalı Yoğurt",
+    "fiyat": "36.90 TL",
+    "ozellikler": [
+      "Düşük yağlı",
+      "Vanilya aromalı",
+      "500g"
+    ],
+    "aciklama": "Hafif vanilya aromasıyla zenginleştirilmiş, düşük yağ oranına sahip sağlıklı yoğurt.",
+    "gorsel": "ArlaHafifVanilyaliYogurt"
+  },
+  {
+    "isim": "YoggiVanillaYoghurt",
+    "turkceisim" : "Yoggi Vanilyalı Yoğurt",
+    "fiyat": "38.50 TL",
+    "ozellikler": [
+      "Kremamsı yapı",
+      "Tatlı vanilya aroması",
+      "500g"
+    ],
+    "aciklama": "Kıvamlı yapısı ve tatlı vanilya aromasıyla kahvaltı ve atıştırmalıklar için mükemmel bir yoğurt.",
+    "gorsel": "YoggiVanilyaliYogurt"
+  }
+]

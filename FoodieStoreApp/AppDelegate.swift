@@ -6,6 +6,9 @@
 //
 
 import UIKit
+import FirebaseCore
+import FirebaseAuth
+import FirebaseFirestore
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -13,8 +16,20 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
-        return true
+                FirebaseApp.configure()
+                
+                let _ = Auth.auth()
+                let _ = Firestore.firestore()
+                
+                print("Firebase App configured: \(FirebaseApp.app() != nil)")
+                print("Firebase Auth ready: \(Auth.auth().app != nil)")
+                
+                #if targetEnvironment(simulator)
+                Auth.auth().settings?.isAppVerificationDisabledForTesting = true
+                print("Simulator mode: App verification disabled for testing")
+                #endif
+                
+                return true
     }
 
     // MARK: UISceneSession Lifecycle
