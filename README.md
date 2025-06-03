@@ -22,8 +22,25 @@ Foodie projesi, market alışverişlerinde kasiyer ya da barkod okutma sistemine
     <td><img src="https://github.com/Selinayceylann/Foodie/blob/2bb61ec2536ea1ac80e278a907b89592dbf34e6c/FoodieStoreApp/Screenshots/LoginScreen.png" alt="Login Screen" width="200"/></td>
     <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/CreateAccountScreen.png" alt="Create Account Screen" width="200"/></td>
     <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/SingInScreen.png" alt="Sing In Screen" width="200"/></td>
+    <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/PasswordScreen.png" alt="Password Screen" width="200"/></td>
 
   </tr>
+</table>
+
+### Anasayfa ve Ürünler Ekranları
+<table>
+  <tr>
+    <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/HomeScreen.png" alt="Home Screen" width="200"/></td>
+    <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/ProductScreen.png" alt="Product Screen" width="200"/></td>
+    <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/BuyScreen.png" alt="Buy Screen" width="200"/></td>
+  </tr>
+</table>
+
+### Sepetim Ekranları
+<table>
+  <tr>
+    <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/BasketScreen.png" alt="Basket Screen" width="200"/></td>
+    <td><img src="https://github.com/Selinayceylann/Foodie/blob/main/FoodieStoreApp/Screenshots/FullBasketScreen.png" alt="Full Basket Screen" width="200"/></td>
 </table>
 
 
