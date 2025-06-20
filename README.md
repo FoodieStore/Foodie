@@ -1,4 +1,4 @@
-# Uyguluma ile İlgili Bilgiler
+# Uygulama ile İlgili Bilgiler
 
 ## Uygulama İsmi
 Foodie
